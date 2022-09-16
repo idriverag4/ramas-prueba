@@ -9,3 +9,5 @@ console.log('6 commit')
 
 console.log('7 commit')
 
+console.log('8 commit rama auth3')
+
